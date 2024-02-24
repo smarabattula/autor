@@ -4,7 +4,7 @@
 
 ## Contributors
 Saketh Vangala     (svangal),  
-Sasank Marabattula (smaraba),  
+Sasank Marabattula (smaraba),   
 Varun Deepak Gudhe (vgudhe), 
 Sukruthi Modem     (smodem) 
 
