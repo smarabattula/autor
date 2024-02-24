@@ -2,12 +2,6 @@
 
 # Auto Repair and Service Management System Database Project
 
-## Contributors
-Saketh Vangala     (svangal),  
-Sasank Marabattula (smaraba),   
-Varun Deepak Gudhe (vgudhe), 
-Sukruthi Modem     (smodem) 
-
 <br>
 
 ***Note***
@@ -50,3 +44,10 @@ java -jar dbms_project.jar
 
 ```
 Now you should be able to interact with the database and can use the Auto Repair and Service Management System.
+
+<br>
+## Contributors
+Saketh Vangala     (svangal@ncsu.edu),  
+Sasank Marabattula (smaraba@ncsu.edu),     
+Varun Deepak Gudhe (vgudhe@ncsu.edu),  
+Sukruthi Modem     (smodem@ncsu.edu)  
